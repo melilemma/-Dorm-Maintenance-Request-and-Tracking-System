@@ -18,7 +18,7 @@ This project is a dorm maintenance management system that allows users to report
 - User login
 - User logout
 - Delete account
-- Maintenance Feedback & Rating
+  
 
 Authorization
 - Role-based access control (User / Admin)
@@ -61,4 +61,4 @@ User Interface
 - Request list screen
 - Admin dashboard
 - Assignment management screen
-
+Maintenance Feedback & Rating
